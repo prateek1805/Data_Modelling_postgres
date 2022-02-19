@@ -6,6 +6,7 @@ In this we have done data modeling with Postgres and build an ETL pipeline using
 In this project we have created ETL pipeline using python that extracts the data stored in json files and store it in panda dataframe and then moving the data to database, and transforms data into a set of dimensional tables.
 
 Project Datasets:
+
 We have worked with two datasets that reside in json format. The path  for each:
 
 Song Dataset:
