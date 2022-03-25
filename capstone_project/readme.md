@@ -9,7 +9,7 @@ The Data get stored in diffrent folder the link for that in S3 is:
 
 Output_data : "s3://prateek-project/output_res"
 
-Schema for sparkify App
+Schema for ABC bank
 
 Fact Table:
 
